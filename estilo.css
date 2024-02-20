@@ -10,8 +10,12 @@
     display: none;
 }
 
+#corpo {
+    text-align: left;
+    color: burlywood;
+}
 body {
-    background-color: rgb(228, 190, 223);
+    background-color: rgb(187, 102, 149);
     font-family: "Audiowide", sans-serif;
 }
 
